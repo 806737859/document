@@ -1,0 +1,1 @@
+https://progressivecoder.com/avoid-ssl-validation-spring-boot-resttemplate/
